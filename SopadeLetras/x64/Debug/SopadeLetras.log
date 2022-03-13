@@ -1,0 +1,21 @@
+﻿  Jogador.cpp
+  Jogo.cpp
+C:\Users\Duda Bastos\OneDrive\uni\1-2\Lab\SopadeLetras\Palavra.h(29,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Letra.cpp
+  Main.cpp
+C:\Users\Duda Bastos\OneDrive\uni\1-2\Lab\SopadeLetras\Function.h(100,11): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\Duda Bastos\OneDrive\uni\1-2\Lab\SopadeLetras\Function.h(210,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Duda Bastos\OneDrive\uni\1-2\Lab\SopadeLetras\Function.h(210,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Duda Bastos\OneDrive\uni\1-2\Lab\SopadeLetras\Palavra.h(29,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Duda Bastos\OneDrive\uni\1-2\Lab\SopadeLetras\Main.cpp(104,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Duda Bastos\OneDrive\uni\1-2\Lab\SopadeLetras\Main.cpp(106,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Duda Bastos\OneDrive\uni\1-2\Lab\SopadeLetras\Main.cpp(139,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Duda Bastos\OneDrive\uni\1-2\Lab\SopadeLetras\Main.cpp(152,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Duda Bastos\OneDrive\uni\1-2\Lab\SopadeLetras\Main.cpp(419,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Palavra.cpp
+C:\Users\Duda Bastos\OneDrive\uni\1-2\Lab\SopadeLetras\Palavra.h(29,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Ponto.cpp
+  Tabuleiro.cpp
+C:\Users\Duda Bastos\OneDrive\uni\1-2\Lab\SopadeLetras\Palavra.h(29,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  SopadeLetras.vcxproj -> C:\Users\Duda Bastos\OneDrive\uni\1-2\Lab\SopadeLetras\x64\Debug\SopadeLetras.exe

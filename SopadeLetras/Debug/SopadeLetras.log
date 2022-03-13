@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\uni\lab\sopadeletras\function.h(100): warning C4129: 'E': unrecognized character escape sequence
+c:\uni\lab\sopadeletras\function.h(210): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\uni\lab\sopadeletras\main.cpp(419): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  SopadeLetras.vcxproj -> C:\uni\Lab\SopadeLetras\Debug\SopadeLetras.exe
